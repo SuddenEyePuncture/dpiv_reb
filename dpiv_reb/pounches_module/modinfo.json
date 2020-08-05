@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "dpiv_reb",
+    "name": "DPIV Rebalance",
+    "authors": [ "Nepman" ],
+    "maintainers": [ "Nepman" ],
+    "description": "Rabalance some items like ammo pounches, bandoliers, and others",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
